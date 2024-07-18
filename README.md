@@ -13,6 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+```rust
+    let _0xExp: &str = "Blockchain Engineer";
+    let learning: bool = true;
+
+    let mut possible: bool = false;
+    let mut possibleState: &str = "Impossible";
+
+    fn keep_coding(possible: &mut bool, possibleState: &mut &str) {
+        *possible = true;
+        *possibleState = "I'm possible";
+    }
+
+    while learning {
+        keep_coding(&mut possible, &mut possibleState);
+    }
+```
+
 <table align="center">
   <tr>
     <td align="center" width="90">
