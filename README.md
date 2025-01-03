@@ -159,22 +159,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-# My experience
-
-# 📊 GitHub Activities: ![](https://komarev.com/ghpvc/?username=0xExp-po&color=red)
-
-<div id='profile-them' align='center'>
-  <a class='github-status' href='https://github.com/0xExp-po'>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=0xExp-po&hide_border=false&include_all_commits=false&count_private=true&show_icons=true">
-  </a>
-  <a class='Current Streak' href='https://github.com/0xExp-po'>
-    <img width = "100%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false&count_private=true"> 
-  </a>
-  <a class='Most-used-languages' href='https://github.com/0xExp-po'>
-    <img height="180px" id='github-status' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xExp-po&layout=compact" />
-  </a>
-</div>
-
 # 💻 Tech Stack: 
 ![Rust](https://img.shields.io/badge/rust-%93323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E) 
 ![Solana](https://img.shields.io/badge/solana-%93323330.svg?style=for-the-badge&logo=solana&logoColor=%FF070F1E) 
